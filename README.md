@@ -1,1 +1,2 @@
-# Taxicab-Infinite-distances
+# Taxicab and Infinite-distances
+Ellipse-Hyperbola
